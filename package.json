@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-dxc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-kethireddy/nodejs-dxc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-kethireddy/nodejs-dxc/issues"
+  },
+  "homepage": "https://github.com/saranya-kethireddy/nodejs-dxc#readme"
+}
